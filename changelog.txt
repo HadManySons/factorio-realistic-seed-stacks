@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.1
+Version: 1.0.2
 Date: 23. 07. 2025
   Minor:
     - DevOps everything
+    - Updated changelog to in-game spec
