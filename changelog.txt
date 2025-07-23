@@ -1,3 +1,5 @@
-v1.0.1
-------
-Adapted to git and automated publishing to mod portal
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 23. 07. 2025
+  Minor:
+    - DevOps everything
