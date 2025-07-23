@@ -1,0 +1,3 @@
+v1.0.1
+------
+Adapted to git and automated publishing to mod portal
