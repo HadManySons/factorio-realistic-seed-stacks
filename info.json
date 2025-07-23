@@ -1,0 +1,9 @@
+{
+    "description": "It seemed dumb to me that you could only fit 10 seeds in a stack when hundred of them come in a packet, so I fixed it.",
+    "author": "HadManySons",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "space-age >= 2.0"],
+    "name": "realistic-seed-stacks",
+    "version": "1.0.0",
+    "title": "Realistic Seed Stacks"
+}
